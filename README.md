@@ -4,6 +4,5 @@ Python3 Tkinter modülünü kullanan temel yazı yazma, yazı düzenleme uygulam
 ```
 git clone https://github.com/talhaaaydin/Not-Defteri
 cd Not-Defteri
-python NotDefteri.py
 python notepadclass.py
 ```
